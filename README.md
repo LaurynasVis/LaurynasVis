@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I'm Laurynas Visockas, aspiring Data Scientist
+
+<div align="center">
+  <iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
+</div>
+
 <!--
 **LaurynasVis/LaurynasVis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
