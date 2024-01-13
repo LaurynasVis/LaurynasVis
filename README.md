@@ -3,7 +3,7 @@
 ### I'm Laurynas Visockas, aspiring Data Scientist
 
 <div align="center">
-  <img src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360"/>
+  <img src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e470hip25awk33c7gw4o0nj6mqdhvmy2h9p0ct83c8h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="360"/>
 </div>
 
 
