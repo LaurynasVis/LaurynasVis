@@ -27,7 +27,14 @@ I'm a prospective graduate student specializing in Data Science and Molecular Bi
 
 - 📖 I’m currently exploring Deep Learning, focusing on PyTorch, CNN, and Computer Vision.
 - 🔭 Actively seeking opportunities in Data Science.
-- 📫 How to reach me: [![Linkedin Badge](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](www.linkedin.com/in/laurynas-visockas-2462a31b9)
+- 📫 How to reach me:<div id="badges">
+  <a href="www.linkedin.com/in/laurynas-visockas-2462a31b9">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 ---
 
