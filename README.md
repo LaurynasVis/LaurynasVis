@@ -27,11 +27,12 @@ I'm a prospective graduate student specializing in Data Science and Molecular Bi
 
 - 📖 I’m currently exploring Deep Learning, focusing on PyTorch, CNN, and Computer Vision.
 - 🔭 Actively seeking opportunities in Data Science.
-- 📫 How to reach me:<div id="badges">
+- 📫 How to reach me:
+<div id="badges">
   <a href="https://linkedin.com/in/laurynas-visockas-2462a31b9">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href=mailto:"laurislv5@gmail.com">
+  <a href="mailto:laurislv5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
@@ -48,4 +49,6 @@ I'm a prospective graduate student specializing in Data Science and Molecular Bi
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
 </div>
