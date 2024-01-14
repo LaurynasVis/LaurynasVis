@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Laurynas Visockas, aspiring Data Scientist
+### I'm Laurynas
 
 <div align="left">
   <img src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e470hip25awk33c7gw4o0nj6mqdhvmy2h9p0ct83c8h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="360"/>
@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👨‍💻 About Me
+I'm a prospective graduate student specializing in Data Science and Molecular Biology. My journey into the world of data science began during my molecular biology studies, where I discovered a profound interest in biostatistics. This revelation fueled my decision to pivot my career towards the dynamic field of data science.
+
+- 📖 I’m currently exploring Deep Learning, focusing on PyTorch, CNN, and Computer Vision.
+- 🔭 Actively seeking opportunities in Data Science.
+- 📫 How to reach me: [![Linkedin Badge](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](www.linkedin.com/in/laurynas-visockas-2462a31b9)
 
 ---
 
