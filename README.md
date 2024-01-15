@@ -29,7 +29,7 @@ I'm a prospective graduate student specializing in Data Science and Molecular Bi
 - 🔭 Actively seeking opportunities in Data Science.
 - 📫 How to reach me:
 <div id="badges">
-  <a href="https://linkedin.com/in/laurynas-visockas-2462a31b9">
+  <a href="www.linkedin.com/in/laurynas-visockas">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:laurislv5@gmail.com">
