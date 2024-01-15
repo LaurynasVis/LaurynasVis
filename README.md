@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 I'm a prospective graduate student specializing in Data Science and Molecular Biology. My journey into the world of data science began during my molecular biology studies, where I discovered a profound interest in biostatistics. This revelation fueled my decision to pivot my career towards the dynamic field of data science.
 
-- 📖 I’m currently exploring Deep Learning, focusing on PyTorch, CNN, and Computer Vision.
+- 📖 I’m currently exploring Deep Learning, focusing on PyTorch framework, CNN, and Computer Vision.
 - 🔭 Actively seeking opportunities in Data Science.
 - 📫 How to reach me:
 <div id="badges">
